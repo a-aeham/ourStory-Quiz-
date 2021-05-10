@@ -1,3 +1,3 @@
 # tourStory Quiz
 Name : Abdullah Ayham Muneeb
-Enail : abdullaayham@gmail.com
+Email : abdullaayham@gmail.com
